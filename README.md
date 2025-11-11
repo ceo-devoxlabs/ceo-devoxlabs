@@ -1,4 +1,4 @@
-![logo](https://github.com/basit2003khi/basit2003khi/blob/main/Syed%20Basit%20ALI.png)
+![logo](https://github.com/ceo-devoxlabs/ceo-devoxlabs/blob/main/Picsart_25-11-06_05-09-09-570.jpg)
 
 <img align="right" alt="gif1" width="300px" src="Ry6p.gif">
 
