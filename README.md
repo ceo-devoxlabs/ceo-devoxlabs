@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basit2003khi&label=Profile%20views&color=0e75b6&style=flat" alt="basit2003khi" /> </p>
 
-- 🔭 I’m currently A Student **at UBIT**
+- 🔭 Founder & CEO @ **DevoxLabs**
 
-- 🌱 I’m currently learning **Frameworks and Courses**
+- 🌱 Visit Devoxlabs Site **https://www.devoxlabs.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
